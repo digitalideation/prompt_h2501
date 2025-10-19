@@ -1,6 +1,8 @@
-# 📘 Prompt Engineering (PROMPT) — README
+# 📘 Prompt Engineering (PROMPT)
 
 This repository contains materials for the **Prompt Engineering** class. It focuses on practical skills for generating text, images, video, and sound using AI tools — with a strong emphasis on creative experimentation and critical reflection.
+
+![image](./assets/landing.jpg)
 
 ## 📚 Table of Contents
 
