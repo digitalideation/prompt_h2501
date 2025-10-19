@@ -67,7 +67,7 @@
 - Students form 6–7 groups of ~6 participants each (≈38 total).
 - Each group runs a 6-step image-passing chain — every student interprets the previous image and generates a new one.
 - One shared folder per group; consistent naming system.
-- Class uses one diffusion model (e.g., SDXL @ 512px) for uniformity.
+- Class uses one diffusion model (e.g., Fux @ 1024px) for uniformity.
 
 **Timing:** ~75–85 min total for the full chain + gallery.
 
@@ -90,7 +90,6 @@
 - Each group shows its three-image chain side by side.
 - Lightning discussion: _Which details persisted? Which words caused surprising changes?_
 - Optional quick votes: Most Surprising Transformation / Best Scene Composition.
-- Tease Day 02: “How might we translate these scenes into sound or music?”
 
 ### ✅ Learning Outcomes
 

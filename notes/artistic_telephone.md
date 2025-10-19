@@ -4,6 +4,11 @@
 
 See how meaning, style, and composition drift as an image passes through six rounds of reinterpretation.
 
+## Links
+
+- Shared SwitchDrive
+- [Image generation model](https://replicate.com/black-forest-labs/flux-schnell)
+
 ## 👥 Setup
 
 - **6–7 groups** of **6 students** each (≈ 38 total).
@@ -96,16 +101,8 @@ After all six images are complete:
    - 🎨 _Best Stylistic Leap_
    - 📖 _Strongest Narrative Continuity_
 
-## 🧩 Notes for the Instructor
+## 🧩 Notes
 
-- Assign one assistant or volunteer to monitor timing and file naming.
-- Encourage students to observe _not just what changed_, but _why_ — what wording likely caused the shift.
-- Remind them that **ambiguity breeds creativity** — misinterpretation is part of the design.
-
-### ✅ Outcome
-
-Students experience:
-
-- The dynamics of visual interpretation drift.
-- The importance of clarity and specificity in prompts.
-- How style, composition, and mood evolve through iterative re-prompting.
+- One assistant or volunteer to monitor timing and file naming.
+- Observe _not just what changed_, but _why_ — what wording likely caused the shift.
+- **Ambiguity breeds creativity** — misinterpretation is part of the design.
