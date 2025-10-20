@@ -7,12 +7,12 @@
 | Block | Activity                          | Duration       |
 | :---- | :-------------------------------- | :------------- |
 | 1     | Foundations & Demo                | 15 min         |
-| 2     | Tools & Prompt Craft              | min            |
+| 2     | Tools & Prompt Craft              | 15 min         |
 | 3     | Writing Visual Scene Descriptions | 20 min         |
 |       | Break                             | 10 min         |
-| 4     | Artistic Telephone Exercise       | 70 min         |
+| 4     | Artistic Telephone Exercise       | 60 min         |
 | 5     | Mini-Gallery & Wrap-Up            | 20 min         |
-|       | **Total**                         | **2 h 30 min** |
+|       | **Total**                         | **2 h 20 min** |
 
 ## 🧱️ Block 1 — Foundations & Demo
 
