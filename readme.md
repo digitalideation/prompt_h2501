@@ -40,9 +40,8 @@ Each week includes mini-projects that simulate real-world creative workflows, su
 - Communicate transparently about AI-assisted work.
 - Reflect on ethical and societal implications.
 
-## 🖼️ Day 01 — Prompting for Image & Video Generation
+## [🖼️ Day 01 — Prompting for Image & Video Generation](./day01.md)
 
-**File:** [`day01.md`](./day01.md)
 **Focus:** Understanding visual generation models and mastering descriptive, stylistic prompting through the _Artistic Telephone_ game.
 
 ### Learning Goals
@@ -58,9 +57,8 @@ Each week includes mini-projects that simulate real-world creative workflows, su
 - Writing full visual scene descriptions
 - _Artistic Telephone_ collaborative exercise
 
-## 🎵 Day 02 — Prompting for Music & Sound Generation
+## [🎵 Day 02 — Prompting for Music & Sound Generation](#)
 
-**File:** `day02.md` _(TBA)_
 **Focus:** Exploring AI music and sound generation — prompting for genre, tempo, and mood across different models.
 
 ### Learning Goals
@@ -85,5 +83,3 @@ Topics covered across sessions:
 - Bias, representation, and inclusivity in generative media
 - Disclosure and transparency in AI-assisted work
 - Synthetic reality and creative responsibility
-
-**Next step:** open [`day01.md`](./day01.md) to explore the detailed session plan and in-class activities.
