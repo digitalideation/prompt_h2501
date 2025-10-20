@@ -1,23 +1,23 @@
-# 🧑‍🏫 Teacher Notes — Day 01 (Blocks 1–3)
+# Teaching Notes — Day 01 (Blocks 1–3)
 
 These notes provide additional examples, prompts, and cues for **Blocks 1–3**. Use them for live demos, warm-up prompts, or guided discussions.
 
 
-## 🧱 Block 1 — Foundations & Demo
+## Block 1 — Foundations & Demo
 
-### 💡 Key Concepts Recap
+### Key Concepts Recap
 
 - **Diffusion models:** explain how noise is iteratively removed to reveal an image.
 - **Latent space:** where the model encodes abstract ideas of form, color, and composition.
 - **Conditioning:** how the text prompt influences sampling.
 - **Attention:** the mechanism aligning words to image features.
 
-🧠 **Talking Points:**
+**Talking Points:**
 
 - Relate model stages to traditional art: _latent space = sketch stage_, _denoising = refinement_, _sampling = rendering_.
 - Clarify that models don’t “see” like humans — they map statistical patterns.
 
-### 🧰 Quick Demo Ideas
+### Quick Demo Ideas
 
 1. **Baseline demo:**
 
@@ -34,7 +34,7 @@ These notes provide additional examples, prompts, and cues for **Blocks 1–3**.
    - Add: `--no text, --no watermark, --no blurry background.`
    - Observe differences and note where the model still fails.
 
-### ⚙️ Optional Quick Exercise
+### Optional Quick Exercise
 
 - Ask students to modify the same subject three ways:
 
@@ -45,9 +45,9 @@ These notes provide additional examples, prompts, and cues for **Blocks 1–3**.
 - Discuss how each descriptor changes tone and form.
 
 
-## 🧱 Block 2 — Tools & Prompt Craft
+## Block 2 — Tools & Prompt Craft
 
-### 🎨 Example Prompts for Art Styles
+### Example Prompts for Art Styles
 
 | Style                           | Example Prompt                                                                                         | Discussion Focus                                                                          |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ These notes provide additional examples, prompts, and cues for **Blocks 1–3**.
 - Ask students to identify which words _anchor_ realism and which drive _style_.
 
 
-### 🧩 Comparison Prompts — Tone & Texture
+### Comparison Prompts — Tone & Texture
 
 Show how small changes transform results:
 
@@ -70,7 +70,7 @@ Show how small changes transform results:
 - `A forest path at night, whimsical atmosphere` → glowing elements, fantasy cues.
 - `A forest path at night, photorealistic style` → natural shadows and detail.
 
-🗣️ **Prompt exercise suggestion:** Have each group rewrite “portrait of an old sailor” into three versions:
+**Prompt exercise suggestion:** Have each group rewrite “portrait of an old sailor” into three versions:
 
 1. _Oil painting on canvas, 19th century realism._
 2. _Comic book panel, dramatic lighting, expressive lines._
@@ -79,9 +79,9 @@ Show how small changes transform results:
 Compare how the model shifts medium and emotion.
 
 
-## 🧱 Block 3 — Writing Visual Scene Descriptions
+## Block 3 — Writing Visual Scene Descriptions
 
-### 🧠 Teaching Cues
+### Teaching Cues
 
 Encourage students to think like directors — emphasize **Who, What, Where, When, How.**
 
@@ -94,7 +94,7 @@ Encourage students to think like directors — emphasize **Who, What, Where, Whe
 5. A dancer moving through beams of light on an empty stage.
 
 
-### ✍️ Example 3-Line Scene Prompts
+### Example 3-Line Scene Prompts
 
 Use these to illustrate descriptive richness and spatial detail:
 
@@ -102,13 +102,13 @@ Use these to illustrate descriptive richness and spatial detail:
 2. _“Inside an abandoned theater, dust particles float through a single beam of light. A solitary dancer stretches, reflected in broken mirrors.”_
 3. _“A red umbrella lies open on a rainy Tokyo street, neon reflections on wet pavement, captured from a low camera angle.”_
 
-💬 **Teaching Tip:**
+**Teaching Tip:**
 
 - Show how adding _time of day_, _light source_, and _camera angle_ deepens storytelling.
 - Have students create a short description, then ask their peers to sketch or imagine the composition before generating it — emphasizing clarity of visualization.
 
 
-### 🎯 Outcome for Blocks 1–3
+### Outcome for Blocks 1–3
 
 After these sections, students should be able to:
 
