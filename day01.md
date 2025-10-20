@@ -56,7 +56,7 @@
 - **Pair activity:** expand a one-line scenario into a 3-line scene prompt.
 - **Group demo:** generate a few examples → discuss clarity vs ambiguity.
 
-## 🧱️ Block 4 — Artistic Telephone Exercise (1:30 → 2:20)
+## [🧱️ Block 4 — Artistic Telephone Exercise](./notes/artistic_telephone.md)
 
 ### 6. Collaborative Prompt Drift Game — Overview
 
@@ -92,8 +92,6 @@
 - Optional quick votes: Most Surprising Transformation / Best Scene Composition.
 
 ### ✅ Learning Outcomes
-
-Students can:
 
 - Design scene-based prompts that control style and composition.
 - Compare how different models interpret identical language.

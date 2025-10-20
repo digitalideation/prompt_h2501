@@ -1,6 +1,6 @@
-# 🎲 Artistic Telephone — Class Flow (38 Students)
+# Artistic Telephone — Class Flow (38 Students)
 
-## 🧠 Goal
+## Goal
 
 See how meaning, style, and composition drift as an image passes through six rounds of reinterpretation.
 
@@ -9,7 +9,7 @@ See how meaning, style, and composition drift as an image passes through six rou
 - Shared SwitchDrive
 - [Image generation model](https://replicate.com/black-forest-labs/flux-schnell)
 
-## 👥 Setup
+## Setup
 
 - **6–7 groups** of **6 students** each (≈ 38 total).
 - Each group forms a **circular chain** (S01 → S02 → S03 → S04 → S05 → S06 → S01).
@@ -25,7 +25,7 @@ See how meaning, style, and composition drift as an image passes through six rou
      ...
   ```
 
-## 🕐 Timing Overview
+## Timing Overview
 
 | Stage | Activity                       | Duration  | Notes                                           |
 | :---- | :----------------------------- | :-------- | :---------------------------------------------- |
@@ -44,7 +44,7 @@ Use a **visible countdown timer** and announce each round clearly:
 
 > “Time’s up! Pass your image clockwise!”
 
-## 🗂️ File-Naming Convention
+## File-Naming Convention
 
 Keep order and lineage:
 
@@ -59,7 +59,7 @@ Group_A/
    02_03_04.png
 ```
 
-## 🧰 Prompts for Round 1 Starters
+## Prompts for Round 1 Starters
 
 Each group begins with a **different theme word or concept** to seed diversity.
 Suggested list:
@@ -76,15 +76,14 @@ Suggested list:
 
 > “At dawn, a monk performs a quiet ritual in a mountain temple courtyard, warm mist rising, cinematic light.”
 
-## 💡 Instructor Tips
+## Tips
 
 - Use the **same diffusion model** for everyone to reduce latency variance.
 - Keep **resolution ≤ 1024 px**.
-- Pre-load the Replicate model page before class; students should test one small run early.
 - Display a live **progress tracker** (simple table on slide).
 - Encourage **interpretive freedom** — students can change era, medium, or emotion.
 
-## 🖼️ Gallery Wrap-Up
+## Gallery Wrap-Up
 
 After all six images are complete:
 
@@ -97,11 +96,11 @@ After all six images are complete:
 
 3. Optional quick votes:
 
-   - 🌀 _Most Surprising Transformation_
-   - 🎨 _Best Stylistic Leap_
-   - 📖 _Strongest Narrative Continuity_
+   - _Most Surprising Transformation_
+   - _Best Stylistic Leap_
+   - _Strongest Narrative Continuity_
 
-## 🧩 Notes
+## Notes
 
 - One assistant or volunteer to monitor timing and file naming.
 - Observe _not just what changed_, but _why_ — what wording likely caused the shift.
