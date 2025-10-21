@@ -64,7 +64,7 @@
 
 **Structure:**
 
-- Students form 6–7 groups of ~6 participants each (≈38 total).
+- Form 6–7 groups of ~6 participants each (≈38 total).
 - Each group runs a 6-step image-passing chain — every student interprets the previous image and generates a new one.
 - One shared folder per group; consistent naming system.
 - Class uses one diffusion model (e.g., Fux @ 1024px) for uniformity.

@@ -61,8 +61,7 @@ Group_A/
 
 ## Prompts for Round 1 Starters
 
-Each group begins with a **different theme word or concept** to seed diversity.
-Suggested list:
+Each group begins with a **different theme word or concept** to seed diversity. For example:
 
 1. _Serenity_
 2. _Ritual_
@@ -72,7 +71,7 @@ Suggested list:
 6. _Chaos_
 7. _Rebirth_
 
-**Example starting prompt:**
+**Example starting prompt _(serenity)_:**
 
 > “At dawn, a monk performs a quiet ritual in a mountain temple courtyard, warm mist rising, cinematic light.”
 

@@ -2,7 +2,6 @@
 
 These notes provide additional examples, prompts, and cues for **Blocks 1–3**. Use them for live demos, warm-up prompts, or guided discussions.
 
-
 ## Block 1 — Foundations & Demo
 
 ### Key Concepts Recap
@@ -36,14 +35,13 @@ These notes provide additional examples, prompts, and cues for **Blocks 1–3**.
 
 ### Optional Quick Exercise
 
-- Ask students to modify the same subject three ways:
+- Modify the same subject three ways:
 
   1. Realistic photo
   2. 3D render
   3. Pencil sketch
 
 - Discuss how each descriptor changes tone and form.
-
 
 ## Block 2 — Tools & Prompt Craft
 
@@ -56,11 +54,10 @@ These notes provide additional examples, prompts, and cues for **Blocks 1–3**.
 | **Surreal Photography**         | `A floating whale above desert dunes, golden hour light, wide-angle lens, photo-realistic style`       | How realism terms (`photo-realistic`, `lens`, `lighting`) blend with dream-like elements. |
 | **Graphic Poster / Minimalist** | `Abstract geometric shapes forming a sunset, flat colors, vector art, minimalist composition`          | Shape and composition vocabulary — introduce `vector`, `flat color`, `negative space`.    |
 
-💡 **Teaching Tip:**
+💡 **Tip:**
 
 - Generate one scene (e.g., “a forest clearing at dawn”) in multiple styles above to visualize how adjectives change the composition.
-- Ask students to identify which words _anchor_ realism and which drive _style_.
-
+- Identify which words _anchor_ realism and which drive _style_.
 
 ### Comparison Prompts — Tone & Texture
 
@@ -78,10 +75,9 @@ Show how small changes transform results:
 
 Compare how the model shifts medium and emotion.
 
-
 ## Block 3 — Writing Visual Scene Descriptions
 
-### Teaching Cues
+### Cues
 
 Encourage students to think like directors — emphasize **Who, What, Where, When, How.**
 
@@ -92,7 +88,6 @@ Encourage students to think like directors — emphasize **Who, What, Where, Whe
 3. A child releasing balloons in a busy market.
 4. An astronaut planting a tree on Mars at dawn.
 5. A dancer moving through beams of light on an empty stage.
-
 
 ### Example 3-Line Scene Prompts
 
@@ -107,10 +102,9 @@ Use these to illustrate descriptive richness and spatial detail:
 - Show how adding _time of day_, _light source_, and _camera angle_ deepens storytelling.
 - Have students create a short description, then ask their peers to sketch or imagine the composition before generating it — emphasizing clarity of visualization.
 
-
 ### Outcome for Blocks 1–3
 
-After these sections, students should be able to:
+After these sections, you should be able to:
 
 - Explain core principles of text-to-image generation.
 - Use descriptive modifiers that clearly communicate style and mood.
