@@ -57,7 +57,7 @@ Each week includes mini-projects that simulate real-world creative workflows, su
 - Writing full visual scene descriptions
 - _Artistic Telephone_ collaborative exercise
 
-## [🎵 Day 02 — Prompting for Music & Sound Generation](#)
+## [🎵 Day 02 — Prompting for Music & Sound Generation](./day02.md)
 
 **Focus:** Exploring AI music and sound generation — prompting for genre, tempo, and mood across different models.
 
