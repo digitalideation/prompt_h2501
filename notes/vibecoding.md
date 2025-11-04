@@ -9,7 +9,7 @@ Students learn to describe visuals as _parameters_, experiment with procedural r
 
 - [Shared SwitchDrive](https://drive.switch.ch/index.php/s/jNhPTRJUXGGV8Ez) — Upload folder for frames & videos
 - [p5.js Web Editor](https://editor.p5js.org) — Coding environment
-- [Replicate Private Chat LLM](#) - LLM coding assistant.
+- [Replicate Private Chat LLM](https://turbo-barnacle-w5gwvgxqg7f55vq-8501.app.github.dev/) - LLM coding assistant.
 - [Google Gemini Flash 2.5](https://gemini.google.com/) — Free public version.
 - [Seedance-1 Lite Video Model (Replicate)](https://replicate.com/bytedance/seedance-1-lite) — img2vid generation
 - [Reference Artwork – _Internet_ (2002)](https://www.newrafael.com/internet/)
