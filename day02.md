@@ -1,8 +1,8 @@
 # Day 02 — Prompting for Music & Sound Generation
 
-**Duration:** 2 h 30 min.
-**Focus:** Crafting prompts for genre, mood, tempo, instrumentation, and structure; producing and evaluating short AI-generated tracks in a _Eurovision-style_ contest (PromptVision).
-**Mode:** Browser-only (web-based music models) — small teams of ≈ 6.
+**Duration:** 2 h 30 min.  
+**Focus:** Crafting prompts for genre, mood, tempo, instrumentation, and structure; producing and evaluating short AI-generated tracks in a _Eurovision-style_ contest (PromptVision).  
+**Mode:** Browser-only (web-based music models) — small teams of 2 (≈ 6).  
 
 | Block | Activity                         | Duration       |
 | :---- | :------------------------------- | :------------- |
